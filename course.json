@@ -1,0 +1,32 @@
+{
+  "course_id": "ICB-R02",
+  "repository": "icb-r02-reviewer-calibration-workshop",
+  "repository_url": "https://github.com/ICoBC/icb-r02-reviewer-calibration-workshop",
+  "title": "Reviewer Calibration Workshop",
+  "subtitle": "Annual calibration of Lead Reviewers on shared cases.",
+  "version": "1.0.0",
+  "series": "Quality network",
+  "skill": "Quality assurance and accreditation",
+  "level": "4",
+  "level_name": "Assure",
+  "stage": "A",
+  "stage_name": "Ability",
+  "alignment_code": "ICSF-QUAL-L4-A",
+  "badge_name": "Reviewer Calibration Workshop (Ability, L4)",
+  "hours": "4",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-r02/",
+  "parts": [
+    "About this course",
+    "Independent scoring",
+    "Comparison",
+    "Agreement",
+    "Interpretation notes",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 10,
+  "practice_questions": 15
+}
